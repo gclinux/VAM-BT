@@ -9,8 +9,10 @@ https://motrix.app/
 
 ### 2. 根据需求下载资源
 游戏本体18.58GB ：
-
 magnet:?xt=urn:btih:DB9C237D9EDED813B9922B423CA479E282E98B10&dn=virt-a-mate%201.20.77.9
+汉化包:
+
+链接: https://pan.baidu.com/s/1YOvLb5Kv9uXj4fPPDP4WOA?pwd=timp 提取码: timp 
 
 下面资源用于创作捏脸,如果你是直接用其他人的mod,可以不下
 
@@ -21,3 +23,5 @@ magnet:?xt=urn:btih:B56EFCFF492EAC70D762736BF50858CEC576645E&dn=Virt-a-Mate%20-%
 皮肤纹理4.59GB：
 
 magnet:?xt=urn:btih:F75B3423C2752CB9DE90D3B6482184606590288C&dn=Virt-a-Mate%20Skin%20Textures
+
+
